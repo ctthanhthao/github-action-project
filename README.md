@@ -1,3 +1,4 @@
+##### Clone this project from https://github.com/nanuchi/my-project for practicing github actions
 ##### build the project
 
     ./gradlew build
